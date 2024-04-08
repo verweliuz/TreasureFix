@@ -1,0 +1,7 @@
+name: TreasureFix
+version: '${project.version}'
+main: me.verwelius.treasurefix.TreasureFix
+api-version: 1.19
+commands:
+  treasurefix:
+    permission: op

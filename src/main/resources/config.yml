@@ -1,0 +1,6 @@
+# Toggles elapsed time logging
+logging: false
+
+# If logging is enabled
+treasure-found: "Found nearest treasure in %time%ms"
+map-created: "Map created in %time%ms"
