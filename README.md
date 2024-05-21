@@ -1,6 +1,6 @@
 you don't need that in 1.21+
 # TreasureFix
-Make sure to disable treasure maps in ~/config/paper-world-defaults.yml.
+Make sure to disable treasure maps in ./config/paper-world-defaults.yml.
 <br>
 Otherwise it won't work.
 <br>
